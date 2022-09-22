@@ -1,4 +1,4 @@
 # Hello-World
 
-Nama : Nurul Aliyah Dyah sakhinah
-NIM : F55121069
+# Nama : Nurul Aliyah Dyah sakhinah
+# NIM : F55121069
